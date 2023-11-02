@@ -5,4 +5,4 @@ Bike-sharing demand is highly relevant to related problems companies encounter, 
 
 In the end, I will submit several entries to the competition and achieve a rank within Kaggle. I will also complete a report of my findings that I can share publicly on Kaggle or my personal page.
 
-You can see my thought process in the report-template file.
+You can see my thought process in the report-template.md file.
